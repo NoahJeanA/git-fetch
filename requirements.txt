@@ -1,0 +1,11 @@
+# Gitch - GitHub Fastfetch
+# Terminal control and colors
+blessed>=1.20.0
+
+# HTTP requests for GitHub API
+requests>=2.31.0
+
+# Optional: For better development
+# pytest>=7.4.0
+# black>=23.7.0
+# flake8>=6.0.0
